@@ -12,11 +12,11 @@
  
  🔭 I’m currently work in **IJSE Panadura**
  
- 🌱 I’m currently learning **React, JavaScript, Node.js, Java, SpringBoot, Angular**
+ 🌱 I’m currently learning **Java , JavaScript ,React, , Node.js, SpringBoot, Angular**
 
- 💬 Ask me about **React, HTML5, CSS, Bootstrap, Java**
+ 💬 Ask me about **Java ,React, HTML5, CSS, Bootstrap **
 
- ⚡ Fun fact **Playing Video Games & Youtubing when I'm in Free**
+ ⚡ Fun fact **Learning Machine leaning & Doing projects when I'm in Free**
  
  </div>
  
